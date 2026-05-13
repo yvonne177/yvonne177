@@ -24,9 +24,8 @@ I’m currently exploring:
 
 ### ⚙️ Engineering & Simulation
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![CAD](https://img.shields.io/badge/CAD-FFB000?style=for-the-badge)
-![FEA](https://img.shields.io/badge/FEA-8A2BE2?style=for-the-badge)
-![CFD](https://img.shields.io/badge/CFD-00A6D6?style=for-the-badge)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+![ANSYS Fluent](https://img.shields.io/badge/Fluent-005A9C?style=for-the-badge&logo=ansys&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-orange?style=for-the-badge)
 
 ### 🧰 Development Tools
