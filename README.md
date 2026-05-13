@@ -1,6 +1,11 @@
 ## Hello, I'm Yvonne! 💫
-🎓 Currently a Robotics Masters student with a Mechanical Engineering background
+Graduate student focused on systems interacting with and understanding the physical world. 
 
+My work ranges from designing mechanical systems in CAD to implementing robot control and simulation in ROS.
+I’m currently exploring:
+- Robotics for healthcare and surgical applications
+- Autonomous and collaborative robotic systems
+- Bridging simulation and real-world deployment
 ### 💻 Softwares:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
